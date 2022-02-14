@@ -240,7 +240,7 @@ a {
     z-index: 9999;
 }
 
-#section-nests {
+#section-nodes {
     height: 900px;
     background-color: white;
     padding-top: 60px;
@@ -251,7 +251,7 @@ a {
 
 }
 
-#section-nests>.content {
+#section-nodes>.content {
     height: 900px;
     width: 1150px;
 }
